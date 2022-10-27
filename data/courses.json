@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "price": "$980",
+        "name": "MERN Stack",
+        "picture": "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png",
+        "about": "MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. A variation known as MERN replaces Angular with React.",
+        "learn4": "MongoDB",
+        "learn3": "Express",
+        "learn1": "React",
+        "learn2": "NodeJS",
+        "learn6": "NextJS",
+        "learn5": "Redux"
+    },
+    {
+        "id": 2,
+        "price": "$870",
+        "name": "WordPress",
+        "picture": "https://webgenix.com.au/wp-content/uploads/2021/10/Wordpress-plugins.jpg",
+        "about": "WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as Themes.",
+        "learn4": "PHP",
+        "learn3": "MySQL",
+        "learn1": "Theme Customization",
+        "learn2": "Theme Development",
+        "learn6": "Taxonomy",
+        "learn5": "Metabox"
+    },
+
+    {
+        "id": 3,
+        "price": "$890",
+        "name": "App Development",
+        "picture": "https://dashwire.com/wp-content/uploads/2022/04/the-complete-guide-to-mobile-app-development-2021-550x275.png",
+        "about": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone.",
+        "learn4": "Java",
+        "learn3": "Kotlin",
+        "learn1": "Siwift",
+        "learn2": "Dart",
+        "learn6": "Flater",
+        "learn5": "React Native"
+    },
+    {
+        "id": 4,
+        "price": "$570",
+        "name": "Shopify",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdWCQ-CJ1JeWVI8TW9-fq3tBZ6ptYunFQOA&usqp=CAU",
+        "about": "Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. Shopify is the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.",
+        "learn4": "Theme Customization",
+        "learn3": "Theme Development",
+        "learn1": "Add Product",
+        "learn2": "Drop Shipping",
+        "learn6": "Custom domain",
+        "learn5": "SEO"
+    },
+    {
+        "id": 5,
+        "price": "$990",
+        "name": "Artificial Intelligence",
+        "picture": "https://www.springboard.com/blog/wp-content/uploads/2022/02/is-ai-hard-to-learn-scaled.jpg",
+        "about": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment.",
+        "learn4": "Build an AI",
+        "learn3": "Make a virtual Self Driving Car",
+        "learn1": "Deep Convolutional Q-Learning",
+        "learn2": "Make an AI to beat games",
+        "learn6": "Deep Q-Learning",
+        "learn5": "A3C"
+    },
+    {
+        "id": 6,
+        "price": "$999",
+        "name": "Robotic",
+        "picture": "https://www.qualitymag.com/ext/resources/Issues/2021/April/Automation/QIA0421-FEAT-Vision-Guided-Robotics-p1FT.jpg?1617894085",
+        "about": "Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.",
+        "learn4": "LM386 Audio amplifier",
+        "learn3": "H-bridge",
+        "learn1": "Heat sinks",
+        "learn2": "Switches and relays",
+        "learn6": "Inductors",
+        "learn5": "555 Siren circuit"
+    }
+]
